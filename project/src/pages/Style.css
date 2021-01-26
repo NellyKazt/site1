@@ -1,0 +1,26 @@
+.home p {
+    text-align: center;
+    font-size: 1rem;
+    margin-top: 30px;
+}
+
+.pic-logo {
+    align-items: center;
+    height: 131px;
+    width: 500px;
+}
+
+.about {
+    text-align:justify;
+    font-size: 1rem;
+    margin-top: 30px;
+    margin-right: 10%;
+    margin-left: 10%;
+    text-indent: 1.5em;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
